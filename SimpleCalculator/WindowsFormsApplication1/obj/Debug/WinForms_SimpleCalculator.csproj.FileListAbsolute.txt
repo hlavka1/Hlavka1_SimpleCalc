@@ -1,0 +1,12 @@
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WinForms_SimpleCalculator.csprojAssemblyReference.cache
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WinForms_SimpleCalculator.Simple_Calculator.resources
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WinForms_SimpleCalculator.frm_Help.resources
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WinForms_SimpleCalculator.csproj.GenerateResource.cache
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WinForms_SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\CIT 255\week 8\SimpleCalculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm_DrunkMessage.resources
